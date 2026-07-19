@@ -158,12 +158,6 @@ Building this project provided hands-on experience with:
 
 ## 👨‍💻 Author
 
-**[Your Name / GitHub Username]**
+**Varad Payghan**
 
-* LinkedIn: [Your LinkedIn URL]
-* Email: [Your Email]
-* GitHub: [Your GitHub URL]
-
-```
-
-```
+* LinkedIn: https://www.linkedin.com/in/varad-payghan-485a87292/
