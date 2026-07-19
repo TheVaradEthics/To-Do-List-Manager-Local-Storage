@@ -1,0 +1,35 @@
+# Compiled class files and output directories
+*.class
+/bin/
+/out/
+/target/
+
+# Log files
+*.log
+/logs/
+
+# Local Data storage (Prevents uploading your personal tasks)
+# Note: If you want to upload a sample data file, you can force add it using: git add -f data/tasks.dat
+/data/*.dat
+/data/*.json
+/data/*.csv
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+
+# Eclipse files
+.classpath
+.project
+.settings/
+.metadata/
+
+# VS Code files
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Windows files
+Thumbs.db
