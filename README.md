@@ -104,13 +104,7 @@ Select an option:
 
 ```
 
-## 📸 Screenshots
 
-*(Note: Replace these with your actual image paths once you upload screenshots to the `/screenshots/` folder)*
-
-* [Main Menu UI](https://www.google.com/search?q=./screenshots/main_menu.png)
-* [Adding a Task](https://www.google.com/search?q=./screenshots/add_task.png)
-* [Viewing All Tasks](https://www.google.com/search?q=./screenshots/view_tasks.png)
 
 ## 🚧 Limitations
 
